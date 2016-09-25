@@ -1,5 +1,4 @@
 /* Alfonso Arreola
- * m233n993
  * 9/16
  * Program that keeps track of inventory
  * */
